@@ -2,6 +2,7 @@
 
 ## Project Overview
 ConvoBot is a visual workflow management system for building conversational bots. It allows you to create, manage, and deploy interactive chatbot experiences without extensive coding knowledge. The system uses a node-based interface where you can design conversation flows, handle user inputs, make API calls, and provide dynamic responses.
+![image](https://github.com/user-attachments/assets/b6ed7496-6efc-42f9-bbcf-61feec8c2c02)
 
 ## Key Features
 - **Visual Workflow Editor**: Design conversation flows using an intuitive drag-and-drop interface
