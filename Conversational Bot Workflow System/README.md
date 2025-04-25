@@ -8,6 +8,8 @@
 This Botpress-powered chatbot allows users to explore data through a conversational interface. The bot currently features two main workflows: retrieving USA population data by year and displaying random dog images. Built with Botpress's visual flow editor, this project demonstrates how to create a user-friendly bot with API integrations and input validation.
 
 ![image](https://github.com/user-attachments/assets/b6ed7496-6efc-42f9-bbcf-61feec8c2c02)
+![image](https://github.com/user-attachments/assets/70f35355-95c6-49b8-8c2e-66bc6fff528b)
+
 
 ## Bot Capabilities
 - Greets users and offers data exploration options
