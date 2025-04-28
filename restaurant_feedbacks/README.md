@@ -7,6 +7,7 @@ A customer feedback collection system integrating Bootstrap CRM with PostgreSQL 
 
 ![image](https://github.com/user-attachments/assets/ff8821e4-b3e8-4a03-84e4-f7bb44da8ea2)
 
+![image](https://github.com/user-attachments/assets/5f05bc94-207c-4d40-8019-3dec93e042af)
 
 
 ## Overview
